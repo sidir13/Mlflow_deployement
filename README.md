@@ -1,2 +1,2 @@
 # Mlflow_deployement
-deployement of a ml model
+Deployement of a ml model
